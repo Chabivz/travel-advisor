@@ -12,15 +12,25 @@ An app that helps look for restaurants, hotels and attractions using Google Maps
  - [License](#🎓-license)
 
 ## 💁🏽‍♂️ About The Project
+
 ## 👨🏽‍🏫 Usage
+- [Travel Advisory Link](https://chabivz.github.io/travel-advisor/)
 
 ## 💻 Technology 
-- Rapid API
+- [Material UI](https://mui.com/)
+- [React](https://www.npmjs.com/package/react)
+- [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/)
+- [Google Maps Api](https://console.cloud.google.com/apis/library/maps-backend.googleapis.com?project=traveladvisor-360516)
+- [Open Weather](https://rapidapi.com/worldapi/api/open-weather13/)
+- [Google Places API](https://console.cloud.google.com/apis/library/places-backend.googleapis.com?project=traveladvisor-360516)
 
 ## 🚀 Installation 
 
-
- 
+- Open [Travel Advisory](https://github.com/Chabivz/travel-advisor)
+- Clone the repository
+- install all the packages by `npm i @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api @testing-library/jest-dom @testing-library/react testing-library/user-event axios google-map-react react react-dom react-scripts gh-pages --force`. Used force because some dependencies are not installing because of node version not being compatible with other dependencies. 
+- Copy .envEXAMPLE and paste to create an .env file. Input all your API key's on RAPID API `Open Weather, Google Map, Google Places & Travel Advisor API`
+- Start the project by `npm start` or `npm run start`
 
 ## 🎓 License
 
