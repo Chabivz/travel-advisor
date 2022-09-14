@@ -2,7 +2,7 @@
 [![Badge](https://img.shields.io/badge/GitHub-chabivz-blueviolet?style=flat-square&logo=appveyor)](https://github.com/chabivz)
 # Travel Advisor 🛩 
 ## Description
-An app that helps look for restaurants, hotels and attractions using Google Maps. The app will store youre previous searched places. 
+An app that helps look for restaurants, hotels and attractions using Google Maps. The app uses Google Maps API, Google Places API, Travel Advisor API for restaurants, hotels and bars. Users are able browse through the map and will show restaurants, hotels and bars on the current location. 
 
 ## 📖 Table of Contents
  - [About the Project](#💁🏽‍♂️-about-the-project)
@@ -10,8 +10,6 @@ An app that helps look for restaurants, hotels and attractions using Google Maps
  - [Technology](#💻-technology)
  - [Installation](#🚀-installation)
  - [License](#🎓-license)
-
-## 💁🏽‍♂️ About The Project
 
 ## 👨🏽‍🏫 Usage
 - [Travel Advisory Link](https://chabivz.github.io/travel-advisor/)
